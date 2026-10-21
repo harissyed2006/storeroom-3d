@@ -2,7 +2,7 @@
 
 A to-scale 3D digital twin of a real storeroom, built from **one photo, two short walkthrough videos and a stocktake spreadsheet**. It shows where everything lives, who has borrowed what, and what's hiding in the back row of the box wall.
 
-**Live:** the project page has a side-by-side of the real room and the model, and `/demo` is the full interactive app.
+**Live:** the project page has a side-by-side of the real room and the model, and `/demo` is the full interactive app. I have also deployed a demo view of this project on https://storeroom-3d.vercel.app.
 
 > This repository is the public portfolio version. All inventory, names and locations in it are **made up**, and the demo runs entirely in your browser (changes are saved in `localStorage`, and *Reset demo* restores the starting data).
 
